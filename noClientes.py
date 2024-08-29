@@ -1,0 +1,1 @@
+cliente = "este es el espacio para informacion de clientes que no cumplen con los requerimientos"
